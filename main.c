@@ -2,6 +2,7 @@
 
 int main(void) {
   printf("Hello World\n");
-  fscanf(fp,"%[^,]s", ...)
+  fscanf(fp,"%[^,]s", ...);
+  sdkfhjskhsdfhsd;
   return 0;
 }
